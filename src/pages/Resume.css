@@ -1,0 +1,32 @@
+/* Resume.css */
+
+.resume-section {
+  min-height: 100vh;
+  background-color: #0b0c10;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+}
+
+.resume-page {
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+}
+.download-button {
+  width: 250px;
+  font-weight: 600;
+  font-size: 1rem;
+  background-color: #7c3aed; /* Stylish violet */
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.download-button:hover {
+  background-color: #5b21b6;
+}
