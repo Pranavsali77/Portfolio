@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProfilePic from "../../assets/profile-pic.jpg";
 import Tilt from "react-parallax-tilt";
-import { AiFillGithub, AiOutlineTwitter } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 
@@ -77,9 +76,7 @@ const About = () => {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                   aria-label="github"
-                >
-                  <AiFillGithub />
-                </a>
+                ></a>
               </li>
 
               <li className="social-icons">

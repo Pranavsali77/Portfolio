@@ -1,6 +1,5 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { AiFillGithub, AiOutlineTwitter } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 
@@ -25,9 +24,7 @@ const Footer = () => {
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="github"
-              >
-                <AiFillGithub />
-              </a>
+              ></a>
             </li>
 
             <li className="social-icons">
