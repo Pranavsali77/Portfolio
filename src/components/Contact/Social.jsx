@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-has-content */
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { FaLinkedinIn } from "react-icons/fa";
