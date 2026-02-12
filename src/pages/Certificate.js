@@ -35,6 +35,42 @@ const certificates = [
     title: "What Is Generative AI?",
     link: "https://drive.google.com/file/d/1WtZn4YXDcNzqyla_ajdWjnTyobCNzYOa/view?usp=drive_link",
   },
+
+  {
+    imgPath: "https://i.ibb.co/n8Nr60cr/Screenshot-2026-02-12-194722.png",
+    title: "Active Listening Skills for Students",
+    link: "https://drive.google.com/file/d/1wKdqIZ9vMbDFOk28IdCHCqH8A1hOPqZG/view?usp=drive_link",
+  },
+
+  {
+    imgPath: "https://i.ibb.co/LdDpZBcf/Oracle.png",
+    title: "Java Fundamentals",
+    link: "https://drive.google.com/file/d/1SE4_QOR9AYXTiAAZ2vT5afB3CxmZo8Kz/view?usp=drive_link",
+  },
+
+  {
+    imgPath: "https://i.ibb.co/WpfLCbkx/TVS.png",
+    title: "TVS Credit EPIC 7.0 - IT Challenge.",
+    link: "https://drive.google.com/file/d/1SE4_QOR9AYXTiAAZ2vT5afB3CxmZo8Kz/view?usp=drive_link",
+  },
+
+  {
+    imgPath: "https://i.ibb.co/T6Jxqdg/Tata-Quiz.png",
+    title: "TATA Crucible Campus Quiz 2025",
+    link: "https://drive.google.com/file/d/131JUJt1bFYeH0-n8LM96m7fOyp0IF4cF/view?usp=drive_link",
+  },
+
+    {
+    imgPath: "https://i.ibb.co/sdkNHmfj/Generative-AI.png",
+    title: "Generative-AI",
+    link: "https://drive.google.com/file/d/1lzOws7XlDiUK9IK8xMzMIRy5HUWLeZI6/view?usp=drive_link",
+  },
+
+    {
+    imgPath: "https://i.ibb.co/BVFJBw8t/LLM.png",
+    title: "Large Language Models",
+    link: "https://drive.google.com/file/d/1EAOUdxzKolSd633GunMH0pEjZkzcMOzk/view?usp=drive_link",
+  },
 ];
 
 const Certificate = () => {

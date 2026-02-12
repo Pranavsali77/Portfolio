@@ -38,11 +38,12 @@ const Projects = () => {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath="https://i.ibb.co/tx2zND2/weather.png"
+              imgPath="https://i.ibb.co/84NwHtqh/Screenshot-2025-09-16-135841.png"
               isBlog={false}
-              title="Weather Forecast GUI with Python"
-              description="The Weather Forecast App is a Python-based GUI application designed to provide comprehensive weather details for a specified location. It leverages various weather parameters to offer users a detailed and accurate forecast."
-              techStack={["Python"]}
+              title="Creative Portfolio"
+              description="A showcase of innovative projects and designs that highlight creativity, skills, and passion. This portfolio reflects a blend of unique ideas, artistic vision, and problem-solving ability across diverse mediums, crafted to inspire and engage"
+              techStack={["React,javascript"]}
+              ghLink="https://github.com/Pranavsali77/Portfolio"
             />
           </Col>
 
