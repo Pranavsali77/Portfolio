@@ -66,6 +66,21 @@ const Projects = () => {
               techStack={["Springboot", "Java", "Angular", "MYSQL"]}
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath="https://i.ibb.co/TBkfmfQS/Screenshot-2026-04-18-130905.png"
+              isBlog={false}
+              title="InterviewX"
+              description="The AI-Based Interview Preparation System is a smart web-based application designed
+to help users prepare effectively for job interviews using artificial intelligence technologies.
+The primary objective of this system is to simulate real interview scenarios,
+generate personalized questions, evaluate user responses, and provide constructive feedback
+to improve performance."
+              techStack={["React,Java(Springboot),Python,Supabase"]}
+              ghLink="https://github.com/Shrikant-Pawar-45/InterviewX"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
