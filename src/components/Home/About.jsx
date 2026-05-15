@@ -24,13 +24,13 @@ const About = () => {
               graduating in 2027.
               <br />
               <br />
-              As a <b className="yellow">Full-Stack Developer</b>, I enjoy
-              tackling new challenges and continuously expanding my skill set. I
-              am proficient in
-              <b className="yellow"> C++, Python,Java</b>.
+              As a <b className="yellow">Full-Stack Developer,AI Engineer</b>, I
+              enjoy tackling new challenges and continuously expanding my skill
+              set. I am proficient in
+              <b className="yellow"> Java,C++,Python</b>.
               <br />
               <br />I have a passion for working with{" "}
-              <b className="yellow">Node.js, MongoDB,</b> and modern JavaScript
+              <b className="yellow">Node.js, SupaBase,</b> and modern JavaScript
               libraries and frameworks like
               <i>
                 <b className="yellow"> React.js</b>
@@ -41,7 +41,7 @@ const About = () => {
               </i>{" "}
               and exploring areas related to
               <i>
-                <b className="yellow"> Data Science & Machine Learning</b>
+                <b className="yellow"> AI-Powered Applications & Automation</b>
               </i>
               .
             </p>
